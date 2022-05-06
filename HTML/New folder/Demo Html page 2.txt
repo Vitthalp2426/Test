@@ -1,0 +1,8 @@
+<html>
+<title>
+Webpage 1
+</title>
+<body>
+This is the official website of Mercedes AMG F1 Team
+</body>
+</html>

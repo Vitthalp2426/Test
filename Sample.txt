@@ -1,0 +1,17 @@
+
+
+		List<WebElements> checkboxes=driver.findelements(By.xpath("//input[@type='checkbox']");
+
+		for(WebElement element:checkboxes)
+		{
+				int count=0;
+			if(element.isSelected)
+			{
+			    count++;
+ 						
+			}	
+		}
+
+			System.out.println("The number of selected checkboxes is: "+count);
+
+

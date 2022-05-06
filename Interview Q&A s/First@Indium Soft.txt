@@ -1,0 +1,13 @@
+Date: 02/05/2022
+
+Topic: Automomation Based Interview Questions
+
+1) Difference between findElement and findElements, what if you pass wrong xpath to both, will there be same exception in both.
+2) Technical challenges you faced as an automation tester?
+3) Xpath by axes --> Locate any element using following Siblings,Ancestor.
+4) If there is any text/element on a webpage say "Copyrights"  today and it is removed tomorrow, how will you find it?
+5) How will you broken links from a webpage?
+6) In pom.xml, what difficulties you faced in adding/managing dependencies?
+7) Print the sum of checked checboxes from any automation practise website using automation script.
+8) What is interface and where have you used it.
+9) Explain your framework.

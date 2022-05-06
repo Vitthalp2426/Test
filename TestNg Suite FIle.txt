@@ -1,0 +1,8 @@
+<suite name="Suite">
+<test name="test1">
+<classes>
+	<class name="package.className"/>
+	<class name="package.className2"/>
+</classes>
+</test>
+</suite>

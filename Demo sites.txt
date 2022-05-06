@@ -1,0 +1,25 @@
+------------------------------
+https://itera-qa.azurewebsites.net/ho...
+https://the-internet.herokuapp.com/
+https://www.globalsqa.com/demo-site/
+https://testautomationpractice.blogsp...
+https://www.saucedemo.com/
+
+Intermediate & Advanced
+-------------------------------------------
+https://opensource-demo.orangehrmlive...
+http://demo.nopcommerce.com/
+http://admin-demo.nopcommerce.com/
+https://demo.opencart.com/
+https://demo.opencart.com/admin/
+http://automationpractice.com/
+http://live.demoguru99.com/
+
+https://swisnl.github.io/jQuery-contextMenu/demo.html---> for action class right click   contextClick
+
+https://testautomationpractice.blogspot.com/-----> for DatePicker 
+
+
+http://www.dhtmlgoodies.com/scripts/drag-drop-custom/demo-drag-drop-3.html----> for Drag and Drop
+
+https://jqueryui.com/slider/-----> for slider demo

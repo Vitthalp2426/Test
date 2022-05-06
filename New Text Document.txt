@@ -1,0 +1,12 @@
+<suite name="suiteName">
+<test name="testFolder1">
+<classes>
+<class name="package.className" >
+<methods>
+<include name=""/>
+<exclude name=""/>
+</methods>
+</class>
+</classes>
+</test>
+</suite>

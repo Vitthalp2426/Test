@@ -1,0 +1,610 @@
+L&T infotech
+1) introduce
+2) experience breakout
+3)STLC
+4) DIFFERENCE collection and collection s
+5)were your using interface
+6) different set and map
+7)array list and linked list
+8)what is interface can we create object of interface
+9)opps conseps briaf
+10)scroll action
+11) Select particular column from table
+
+valueLab
+1.ChromeDriver d = new chromeDriver is correct?
+2. what is the object in that
+3.where you write yor test case
+4 which framework you use
+5 how you will fetch data from excel
+6 scenario base 
+7 how you will shitch from one child window to another
+8 testng and its parameter
+9 how you will send report to client 
+10.withour apchepoi it is possible to fetch data
+
+
+Capgemini
+1. Introduction
+2. How u do api testing in ur project
+3. What is difference between soap ui and postman
+4. What is UDDI
+5. For testing soap  services  which file u use
+6. STLC
+7. Difference between retesting and regression
+8. Shortly explain the sanity regression and retesting
+9. Different status code
+10. Difference between bug and defect
+
+FIS
+1.STLC
+2.Defect Life cycle
+3.Nth highest Salary
+4.Program for repeated character in string
+5.How to confirm particular webelement is present on webpage
+6.Waits
+
+Capjemini
+ 1. Introduction
+2. Interface
+3. What is xpath
+4. How you will write xpath
+5. Explain your role on your project. 
+6. Knowledge of cucumber bdd
+7. What is method overloading and over riding
+8. What is collection
+9. What is difference between array list and link list
+10. What is abstraction
+11. What do you mean by static??
+12. What benefits you will get using static ?? Why?
+13. Defect lifecycle
+14. Update table command
+15. Diff. Between hashmap and hashtable
+16. You have given tagname.. value and I'd . How you write xpath
+17. What means locators.
+18. How much u will rate youself for Java n selenium
+19.  Have you work on cross browser? N how? Tell me the code
+
+
+Manual Questions-
+
+1. Verification & Validation
+2. Various models for software Testing(waterfall, V, Agile)
+3. Agile Methodology
+4. Agile Process
+5. Difference between Agile & Srum
+6. Agile Ceremonies
+7. Levels of Testing
+8. Types of Testing
+9. Methods of Testing
+10. Test Plan format 
+11. Smoke, Sanity, Retesting, Regression, Acceptance Testing
+12. At production system becomes fail as a QA what will be your role
+13. What will u do such things will not be occurred in next upcoming sprint
+14. Root cause Analysis
+15. DOR(Definition of Ready) & DOD(Definition of Done)
+16. STLC process
+17. Types and status of defects
+18. Traceability matrix 
+19. Test matrix
+20. Difference between Test case scenario and Test cases
+21. Sprint, user story
+22. Functional and Non-Functional Testing
+23. Masked defect
+24. Defect density
+25. What is figure in manual
+26. How many test cases u executed in 1 day
+27. How many regression test cases have you executed in 1 day
+28. Have u done mob. Testing in manual
+29. Complete agile process
+30. Write down minimum 22-25 test cases for given application (Functional)
+
+
+Java Q.-
+
+
+1. Why Java is independent
+2. Static & Non-static variable
+3. Which modifiers are used with local variable
+4. Constructor and types
+5. Abstract class
+6. Which is a abstract class in selenium in built (tell name don't tell what is meant by abstract class)
+7. Which is Interface in selenium in built
+8. Total OOPS concept
+9. Method overloading and over riding
+10. Why string class is final and immutable (IMP)
+11. Difference between Final, Finally and Finalize
+12. Difference between throw and throws
+13. Study Collection complete (Imp)
+14. Programs-
+A. Reverse string
+B. Palindrome no. 
+C. Palindrome String
+D. Prime no. ( Check 0 & 1 also)
+E. Factorial of no.
+F. Repeat character in string
+
+
+Selwnium Q. -
+
+1. Advantages and Disadvantages of selenium
+2. Components of Selenium
+3. How to scroll window tell me all possible ways
+4. Methods to handle alert
+5. Methods to select drop down
+6. Read and write data from Excel shompleet
+7. Listener class
+8. TestNg complete
+9. Data provider * (Most Imp plz don't miss)
+10. POM , Page factory, Framework complete
+11. Maven and it's advantages (IMP)
+12. How to count no. Of words or lines of particular text file using Java and selenium
+13. If there is 1 table which contains
+Name, department and salary
+How can I find maximum salary from department wise using Java and selenium
+14. Tell me Expectations u handled in ur work
+15. Please do Xpath in details like following siblings 
+16. There are multiple tabs open if I want to go from 1st tab(window) to any of the mid 1 or last 1.. How can I?
+17. Where u use oops concept in ur framework
+18. Approx how many POM classes u have designed in ur framework
+19.return types of web driver methods and web element methods
+20. Parallel Testing
+21. If I have 1 e-commerce page , certain products shown all have add to cart button all have same name and Id, type , text all how I find particular unique product?
+22. How you validate your window?
+23. What is other way to fill data other than send key
+24.there are 4 test methods 1 has priority 0, one has priority 1 , one has also priority 1 and last has no priority tell me execution sequence
+25. TestNg Annotations flow sequence
+26. Where all the reports are stored after execution of framework
+27. Git and GitHub (most Imp)
+28. As a QA point of view what changes you will do in ur framework for simplicity 
+29. What are other methods u will suggest to your team to change in framework
+30. how u select all the elements of webpage
+31. Can I deselect all web elements 
+32. How u select colour of particular web element
+33. How to handle dynamic table
+
+
+Capgemini 
+
+1)Tell me urself
+2)when u say ur done api testing  so r u done manual or automation
+3)which status code u got
+4)Different types of polymorphism 
+5)how u remove  duplicate  char in string
+6) tell me different type of runtime exception 
+7)access specifiers
+8)what is wrapper classes 
+9)diff arraylist and linkedlist
+10)methods in arraylist 
+11)what r different type of cursors
+12)diff command in git while u commit code 
+13)i want command  to push code how u doing with command prompt or eclipse
+14)if u have code on branch git and one of senior commit changes to master directly now then u have to take code master to ur branch but u an ur team member have modified Same file then u want code from master to ur branch how u done it.
+15)sequence of annotation in testng
+16)fluent wait
+17)maven phases
+18)unix cmds
+19)U want to report  something then which Cmds u used for reporting in Jenkins
+
+
+BlueConchtech
+1.	Difference betn relative nd absolute xpath
+2.	Different locator
+3.	 How to handle Child window 
+4.	Diff.betn findElement and findElements and its return type
+5.	Why it has list and set return type
+6.	How you rate yourself in java and oops
+7.	Different status code and explain 
+8.	Error status code , 500 belongs from 
+9.	Testng and ann
+
+Capgemini
+1. Intro
+2. OOPS concept
+3. Framework
+4. Acces modifiers
+5. POM
+6. DragandDrop and radio button
+7. Array, list, hashmap
+8. Interface in collection
+9. How much u will rate yourself for java
+10. Types of Reports
+11. How to handle multiple window 
+12. Jerkin 
+13. Iframe
+14. Explain  Protected in java
+15. Method Overloading and Overriding with example
+16. 1 scenario based question
+17. BDD
+
+
+Zensar 
+1) introduction
+2) SDLC & STLC
+3) Defect Life Cycle
+4) severity & Priority
+5) Diff. between Sanity & regression
+6) How you perform API testing
+7) Query for join two tables 
+8) Query to fetch first 10 rows from column
+9) Meetings after completion of Sprint
+10) procedure followed after getting defect ?
+
+
+FIS(Technical Interview)-
+1.InTroduction
+2.What was your role in banking project
+3.What is Derivatives
+4.What is types of derivatives
+5.What are the fixed protocols used in the project
+6.What is Defect Life Cycle
+7.What are the agile ceremonies
+8.What are the estimation techniques
+9.Example of high priority and low severity
+10.What is the difference between regression and retesting
+11.what is Webdriver
+12.What is difference between / and //
+12.What is RTM
+13.What is Manipulator
+14.What is root cause analysis
+15.Write the code for browse the page
+16.What is left JOin and syntax for that(gave me the tables)
+17.What is the data driven framework
+18.What is static binding
+19.What is method overriding
+20.What is difference between multilevel and multiple inheritance
+21.Types of Locators
+22.Multiple Scenarios on manual 
+23.What is implicit and explicit wait
+24.Example of high severity and low priority
+25.What is difference between findelement and findelements
+26.What is your work in the project , what you tested
+27.How you find the webelement form using css selector
+28.What is the purpose of root cause analysis , it is necessary to do
+29.Where you have done the root cause analysis
+
+
+Capgemini automation
+1.Have you used cucumber or BDD?
+2.Explain defect life cycle. Given one scenario.
+3.Explain framework?
+4.Difference bet findelement and findelements.
+5.how you handled pop-ups?
+6.Differtiate assert and verify.
+7.what you validate in api?
+8.what are different status codes.
+
+
+
+
+HCL(Technical Interview)-
+1.Test Plan
+2.Agile
+3.Difference between regression and retesting
+4.where do we use sanity testing
+5.Where do we use regression testing
+6.Sceanrio based quetions
+7.Test Scenarios On LIFT where lift should stop on only odd number Floors
+8.Method overloading
+9.Where you used the of method overloading in your script(tell me already worked sceanrio)
+10.What is compile time Polymorphism
+11.Defect Life Cycle
+12.Verification and VAlidation
+
+
+
+What defects you have found in last sprint?
+
+Answer- In last sprint-
+
+I have worked in Anylsist Estimation user story. 
+
+In that I found issue in for top 100 stock graphs will shows but for 5 to 10 stock it not shows as these stock just added in niffty 100 list
+
+
+
+Capgemini 
+
+1) Introduction
+2) Framework
+3) Code for String Reverse
+4) Code for Scrolling
+5) Code for Screenshot
+6) Code to launch browser
+7)  what is Collection
+8) debugging
+9) API methods 
+10) Query to insert data in table
+11) what is Array & it's methods
+
+
+
+Capgimin (API automation)
+Intro 
+Explain opps with selenium examples
+Difference set and list
+Final keyword
+Api 
+Http methods
+Status codes
+Diff soap and Api
+Core factors of postman
+Selenium
+Diff ways to do refresh
+Selenium waits 
+Select class
+Locaters
+If one webelement changing its location after every refresh how u will locate that webelement.
+Testng anotations
+Priority 2 senario based qus
+Maven 
+Which jar files you hav added in pom.xml
+
+
+Knowledge on API concepts
+•	Automation process and Selenium concepts
+•	Should have understanding about BDD concepts
+•	Should have good knowledge in JAVA Basic concepts
+•	Should have clear understanding on OOPS concepts and Java collections
+•	Should know Agile Methodology
+•	How to handle the requirements
+•	Explain the concepts in systematic way. What are the important things you should follow while deriving the test cases/scenarios
+•	Should have good theoretical and coding knowledge 
+•	Should be able to find solutions for a given problem 
+•	Should know about what is STLC
+•	Should think of Test cases for a given problem
+•	Should know the basic concept of Regression and Retesting
+•	Should be able to derive test data for a given Test Scenario
+•	Should be able to derive Test cases for a given Test scenario
+
+What is difference between @BeforeHook and Background keyword?
+What are the different dependencies in Cucumber?
+What is Cucumber Data Table?
+How do you pass parameters in Cucumber?
+What are the different ceremonies of Agile? Explain your understanding about PO, Scrum Master's role? Who maintains Sprint backlog and Product backlog?
+What is difference between Product Backlog and Sprint Backlog?
+Why do we call Sprint Backlog as sprint backlog?
+What is difference between set,list and map?
+What are the different methods of Select class?
+How do we handle window popups in Selenium?
+What is Epic?
+What is velocity?
+What is Program incremental value?
+Can we overload findelement()?
+What is the difference between Remotewebdriver and Webdriver?
+How do you run failed testcases in Cucumber?
+Explain your project configurations.
+
+
+
+Java-Basic
+*******
+1. Types of polymorphism
+2. 2. Difference between override and overload
+3. 3. Methods that cannot be overloaded
+4. 4. Static block and instance block
+5. 5. Difference in Static and non static
+6. 6. Encapsulation and common use cases
+7. 7. Abstract vs interfaces
+8. 8. Inheritance in java
+9. 9. Methods that cannot be overloaded
+10. 10. Type casting in java
+11. 11. String buffer and string builder
+12. 12. Why string is immutable in java
+13. 13. How to handle exceptions
+14. 14. Can I write try catch without the catch block
+15. 15. Difference between throws and throw
+16. 16. Use of iterator in java
+17. 17. Difference in Final, finally and finalize 
+18. 18. Boxing and unboxing in java
+19. 19. Increment and decrement operation
+20. 20. Variable Args
+21. 21. This and super keyword in java
+22. 22. Issues during Swtich case without break
+23. 23. Upcasting and downcasting
+24. 24. Baseclass of all class in java
+25. 25. Baseclass of error and exceptions
+26. 26. Access specifiers
+27. 27. Continue and break statement
+28. 28. Can main method return any value
+29. 29. Can we overload main method. What happens when overloaded
+30. 30.how to execute and statement before main method
+31. 31. Difference between == and equals()
+32. 32. Can user declare constructor as final
+33. 33. Can we cast any other type to Boolean data with type casting.
+34. 34.does java compile if user use 'static public void' instead of 'public static void'
+35. 35.can we use this() and super() in a constructor
+36. 36. Can we create object of abstract class
+37. 37. Can we create reference for an abstract class
+38. 38. Can we declare a class as static
+39. 39. What is instanceOf keyword
+40. 40. What's the load factor of HashMap
+41. 41. How to prevent a class from being sub classes
+42. 42. Final variable, final method and final class
+43. 43. Ways to create a string variable.
+44. 44. What is gc() - garbage collector
+45. 45. Subclass and innerclass
+46. 46. Infinite loop in java
+47. 47. How to make copy of an element
+48. 48. Checked and unchecked exceptions
+*******
+Java Collection
+*******
+
+1. Classes inside List interface, Set interface, Map Interface
+2. 2. Arraylist vs Linkedlist
+3. 3. Arraylist vs array
+4. 4. Arraylist vs vector or stack
+5. 5. Which class of List Interface to be used if user have more insertions and deletions
+6. 6. Which class of List Interface to be used if user have more retrieval
+7. 7. Set Interface: HashSet, TreeSet, SortedSet
+8. 8. Map - HashMap, HashTable, TreeMap, LinkedHashMap.
+9. 9. Stack and Queue
+10. 10. How to maintain insertion order in Set, List and Map
+11. 11. How to sort elements in ascending order in Set and Map
+*******
+Java Programs
+*******
+
+1. String reverse
+2. 2. String Palindrome
+3. 3. String Anagram
+4. 4. Find occurrences of characters in a string
+5. 5. Find the count of Capital and Small letters in a string
+6. 6. Remove duplicate characters from string
+7. 7. Swap to numbers without temporary variable
+8. 8. Reverse number
+9. 9. factorial
+10. 10. Fibonacci
+11. 11. Count number, alphabet and special characters
+*******
+
+
+Selenium
+*******
+
+1. Difference in driver.get() and driver.navigate().to()
+2. 2. Navigation methods in selenium
+3. 3. What is POM
+4. 4. Implicit wait 
+5. 5. Explicit wait- use of explicit wait, how to ignore exceptions using explicit wait
+6. 6. Fluent wait
+7. 7. Examples for expected conditions in explicit wait
+8. 8. Default timeout of pageLoadTimeout.
+9. 9. Use of desired capabilities
+10. 10. Use of chromeOptions, firefoxOptions ,ieOptions, etc.
+11. 11. How to disable notification in selenium.
+12. 12. Difference between getText() and getAttribute()
+13. 13. How to extract css property value
+14. 14. Difference between driver.close() and driver.quit()
+15. 15. How to handle dropdown elements with select tag and without select tag.
+16. 16. How to handle frames and windows
+17. 17. How to switch back to parent window.
+18. 18. How to perform page scroll in selenium
+19. 19. Use of Robot keys
+20. 20. Use of AutoIt
+21. 21. Use of Sikuli
+22. 22. How to perform File Upload
+23. 23. How to click or send value to an element without using element.click() and element.sendKeys()
+24. 24. Relative and absolute xpath
+25. 25. Explain few Xpath functions
+26. 26. How to login to site showing authentication popup in selenium
+27. 27. Mention few selenium exceptions
+28. 28. Difference between single slash and double slash.
+29. 29. What are the scenarios that cannot be automated using selenium.
+30. 30. How to perform right click on selenium
+31. 31. Action class and it's methods
+32. 32. Use of HtmlUnit driver
+33. 33. Can we create an object of the WebDriver() in selenium?
+34. 34. What is stale element exception and how to handle it.
+35. 35. Xpath and CSS selector
+*******
+TestNG
+********
+1. Annotations in testng
+2. 2. Difference between @BeforeTest and @BeforeMethod
+3. 3. Soft assert vs Hard Assert
+4. 4. How to pass parameters to test methods
+5. 5. Use of data provider
+6. 6. Use of invocationCount, enabled, priority, dependsOnMethod, dependsOnGroups, alwaysRun, dataProvider, groups, timeout, expectedExceptions, singleThreaded, etc
+7. 7. testNg xml structure
+8. 8. How to group testcases
+9. 9. Use of IRetryAnalyzer class
+10. 10. How to run failed testcases
+11. 11. How to perform parallel testing.
+12. 12. What level user can perform parallel testing
+13. 13. Use of ISuiteListener Methods
+14. 14. Use of TestListenerAdaptor methods
+15. 15. How to ignore packages and classes.
+16. 16. Can user provide negative value for setting priority.
+*******
+REST API
+*******
+1. Client/server Error Codes
+2. 2. Success codes
+3. 3. Use of GET, PUT, POST, PATCH, DELETE
+4. 4. Difference between Put and Patch
+5. 5. Difference between Put and Post
+6. 6. How to handle authentication
+7. 7. Difference between webserver and API
+8. 8. Json/xml structure format 
+9. 9. How to validate json response
+10. 10. Use of JsonPath
+11. 11. How to construct json body for Put, Post, Patch request.
+12. 12. Use of JsonObject.
+13. 13. What's is URI
+14. 14. What's a resource
+15. 15. What are the common headers used.
+16. 16. Common content types
+*******
+GIT
+*******
+
+1. Use of common commands used:
+2.        add, status, commit, push, pull, restore, checkout, clone
+3. 2. How to handle merge conflicts
+4. 3. How merge issues occur.
+*******
+
+
+
+Accenture Technical 
+
+1. Your experience 
+2. Which tools you've used?
+3. What is the sequence of tags in Testng.xml
+4. Explain your complete framework?
+5. What tool have you used for handling excel sheet?
+6. What is Regression suite?
+7. How many test have you kept in Regression suite?
+8. What is your team size ?
+9. What is constructor?
+10. Where have you used constructor in framework?
+11. What is inheritance?
+12. What is overloading?
+13. What is the difference between this and super?
+14. What is the difference between get and navigate?
+15. Difference between findElement and FindElements?
+16. WebDriver syntax .
+17. What if I want to use the superclass methods in subclass?
+18. Difference between global and local variable?
+19. What is encapsulation. And where have you used it?
+20. Implicit wait and Explicit wait difference. 
+21. What is the reason to use testNg?
+22. Have you performed parallel execution?
+23. What is data provider ?
+24. Where have you used data provider ?
+25. Code for string reverse ?
+26. Pattern printing 
+       *
+       **
+       *
+27. How many yet cases your team has automated ?
+28. What have you modified in testNG.xml
+29. If I have 4 test cases with priority as -1,0,1 and no priority to 4th case.. tell me the sequence of execution. 
+30. All the testNG annotations 
+31. What part of your project test cases you have kept in @BeforeSuite ?
+31. What have you kept inside @BeforeClass?
+32.What is the sequence of annotations. 
+33.Can we overload main method? Write a program to overload main method.
+34.How to handle alerts?
+35. What is the method to check if the checkbox is selected?
+36. What is WebDriver and what is ChromeDriver?
+37. What if I changed to syntax of webdriver from
+"WebDriver driver =new ChromeDriver" to ChromeDriver driver= new ChromeDriver
+38. How are the exceptions handled in Java?
+39. If my test case has an exception,  if I put in in the try catch block, will it run successfully or it will fail??
+40. How do you manage your texting? Like do you perform Automation on the same print or something else.
+41. How do you decide which test cases should go for Automation?
+42. How to you give your own time estimates for the particular user stories?
+43. What challenges you faced in estimation phase ?
+44. Who assigns you the test cases ?
+45.What are the three ways to select from drop down?
+46. Apart from POM where is the usage of constructor?
+
+
+1. What is sprint 0
+2. What is agile artificates 
+3. What approach if we have execute 100 TC within a day, we don't have to skip any thing in that.
+4. What approach if found more 20 to 30 defects in build
+

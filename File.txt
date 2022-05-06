@@ -1,0 +1,90 @@
+LIKE 
+The LIKE operator is used in a WHERE clause to search for a specified pattern in a column.
+There are two wildcards often used in conjunction with the LIKE operator:
+
+•	 The percent sign (%) represents zero, one, or multiple characters
+•	 The underscore sign (_) represents one, single character
+
+
+SELECT * FROM table_name
+WHERE column name LIKE pattern;
+Example – 
+SELECT * FROM table_name
+WHERE FN LIKE ‘a%’-----Finds any values that start with "a"
+WHERE FN LIKE ‘%a’ ------- Finds any values that end with "a"
+WHERE FN LIKE ‘_r’---Finds any values that have "r" in the second position
+WHERE FN LIKE ‘a_’-----------Finds any values that start with "a" and are at least 2 characters in length
+WHERE ContactName LIKE 'a%o'  -------------start with “a” & end with “o”
+SELECT * FROM Customers
+WHERE CustomerName LIKE 'a__%';
+
+
+18.	 INSERT INTO 
+The INSERT INTO statement is used to insert new records in a table _ or new row into table 
+Specify both the column names and the values & insert
+1.
+INSERT INTO table_name (column1, column2, column3, ...)
+VALUES (value1, value2, value3, ...);
+2.
+ If you are adding values for all the columns of the table, you do not need to specify the column names in the SQL query.
+INSERT INTO table_name
+VALUES (value1, value2, value3, ...);
+
+19.	 UPDATE 
+
+The UPDATE statement is used to modify the existing records in a table.
+UPDATE table_name
+SET column name = ‘value1’, column name = ‘value2’
+WHERE column name = value;
+
+
+20.	DELETE
+
+The DELETE statement is used to delete existing records in a table.
+
+DELETE FROM table_name
+WHERE column name = ‘value’;
+
+21.	ALIAS 
+
+SQL aliases are used to give a table, or a column in a table, a temporary name.
+Used to make changes column headings
+
+SELECT column_name AS alias_name
+FROM table_name;
+
+22.	SELECT INTO
+The SELECT INTO statement copies data from one table into a new table or other table 
+Used to create a table from an existing table by copying the existing table's columns
+SELECT column name
+INTO newtable 
+FROM oldtable
+
+23.	UNION 
+The UNION operator is used to combine the result-set of two or more SELECT statements.
+•	Every SELECT statement within UNION must have the same number of columns
+•	The columns must also have similar data types
+•	The columns in every SELECT statement must also be in the same order
+
+UNION Syntax
+
+SELECT column_name(s) FROM table1
+UNION
+SELECT column_name(s) FROM table2;
+
+UNION ALL Syntax
+
+SELECT column_name(s) FROM table1
+UNION ALL
+SELECT column_name(s) FROM table2;
+
+UNION VS UNIONALL
+Removes duplicate values,
+Allow duplicate values
+
+SQL Constraint Used in SQL 
+It is used limit data type
+Constraints can be specified when the table is created
+Used to specify rules for data in table
+Constrain should be at column level or table level
+Column level constraint apply to column level & table level constraint apply to table level
